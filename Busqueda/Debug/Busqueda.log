@@ -1,1 +1,4 @@
-﻿  Busqueda.vcxproj -> C:\Users\panch\Desktop\Universidad\Microprogramación\MACRO_ASSAMBLER\KeyLogger\Busqueda\Debug\Busqueda.exe
+﻿  Assembling busqueda.asm...
+ReadFile.inc(2): warning A4011: multiple .MODEL directives found : .MODEL ignored
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Busqueda.vcxproj -> C:\Users\MSI\Documents\GitHub\KeyLogger\Busqueda\Debug\Busqueda.exe

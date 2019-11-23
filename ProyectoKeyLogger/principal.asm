@@ -32,10 +32,10 @@ Archivo byte "C:\ProyectoMicro\keylog.txt", NULL
 saltoLinea DB 13, 10,0
 
 ;LECTURA
-fecha db "				Fecha: ",0
-bufffecha db 11
-hora db "				Hora: ",0
-buffHora db 10
+fecha db " Fecha: ",0
+bufffecha db 8
+hora db " Hora: ",0
+buffHora db 7
 slash db "/",0
 puntos db ":",0
 
