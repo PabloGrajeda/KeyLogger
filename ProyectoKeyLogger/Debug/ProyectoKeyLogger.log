@@ -1,5 +1,1 @@
-﻿  Assembling Main.asm...
-\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
-Main.asm(45): warning A4014: instructions and initialized data not supported in BSS segments
-Main.asm(46): warning A4014: instructions and initialized data not supported in BSS segments
-  ProyectoKeyLogger.vcxproj -> C:\Users\MSI\Documents\GitHub\KeyLogger\ProyectoKeyLogger\Debug\ProyectoKeyLogger.exe
+﻿  ProyectoKeyLogger.vcxproj -> C:\Users\panch\Desktop\Universidad\Microprogramación\MACRO_ASSAMBLER\KeyLogger\ProyectoKeyLogger\Debug\ProyectoKeyLogger.exe
