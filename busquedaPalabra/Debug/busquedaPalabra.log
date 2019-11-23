@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+ReadFile.inc(2): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  busquedaPalabra.vcxproj -> C:\Users\MSI\Documents\Micro\busquedaPalabra\Debug\busquedaPalabra.exe

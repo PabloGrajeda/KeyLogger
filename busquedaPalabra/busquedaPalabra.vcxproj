@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{797B7A46-8029-45E9-9FC6-D7EC96B54B44}</ProjectGuid>
-    <RootNamespace>Busqueda</RootNamespace>
+    <ProjectGuid>{E23D0014-C099-40A1-894D-2372FCBDA07A}</ProjectGuid>
+    <RootNamespace>busquedaPalabra</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -124,7 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <MASM Include="busqueda.asm" />
+    <MASM Include="main.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
